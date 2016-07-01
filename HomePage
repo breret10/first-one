@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>Final</title>
+
+<link rel="stylesheet" type="text/css" href="FinalP.css" />
+
+</head>
+
+<body>
+
+<center><img src="college1.jpg" width="800"></center>
+
+<h1>Hello everyone, and welcome to the Brereton’s Europe Trip! Click the different tabs at the top of the page to explore the different countries we visited and see what we did while we were there!</h1> 
+
+<ul id="nav"> 
+
+<li><a href="Home.html">Home</a></li> 
+<li><a href="London.html">London, England</a></li> 
+<li><a href="Ireland.html">Kinsale, Ireland</a></li>
+<li><a href="Spain.html">Mallorca, Spain</a></li>
+
+</ul> 
+
+
+
+<p> Little bit of background info: This was our big Europe adventure that took place in 2015. We spent two weeks traveling around the three different countries of England, Ireland, and Spain. The specific cities I have names were the ones that we stayed in and spent to most time in. We had an unforgetable time, and if you are looking to have a European adventure of your own definitley take notes and feel free to ask questions by sending us an email. We appreciate you taking the time to explore our website! Bon Voyage!
+</p>
+<h2>Contact Info</h2>
+<ul>
+<li> <a href="mailto:breret10@msu.edu">Click here to email us if you have any questions!</a> </li>
+</ul>
+
+</body>
+
+</html>
